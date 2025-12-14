@@ -1,16 +1,50 @@
-# React + Vite
+# Tembea Kenya 🇰🇪
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Experience the Magic of Kenya.**
 
-Currently, two official plugins are available:
+A modern, interactive travel web application built with **React + Vite** showcasing the breathtaking beauty of Kenya. From the pristine white sands of Diani Beach to the wild savannas of the Maasai Mara.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Tembea Hero Shot](public/assets/hero.png)
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **✨ Premium UI/UX**: Glassmorphism design, smooth scroll animations (fade-up, zoom), and a responsive layout.
+*   **🦁 Dynamic Destinations**: Browse top locations with rich details, ratings, and categories (Beach, Safari, Adventure).
+*   **📅 Interactive Booking**: A beautiful multi-step modal for booking inquiries with simulated processing states.
+*   **💌 Contact Integration**: Direct email links and a functional contact form simulation.
+*   **💬 Testimonials**: Read reviews from happy travelers.
+*   **📱 Fully Responsive**: Optimized for mobile, tablet, and desktop.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*   **Framework**: React (Vite)
+*   **Styling**: Plain CSS 3 (Custom Variables, Flexbox/Grid, Animations)
+*   **Font**: outfit & Playfair Display (Google Fonts)
+
+## 🏃‍♂️ Running Locally
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/Copubah/tembea-kenya.git
+    cd tembea-kenya
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the dev server**
+    ```bash
+    npm run dev
+    ```
+
+4.  Open `http://localhost:5173` to view it in the browser.
+
+## 📧 Contact
+
+**Charles Opuba**
+*   Email: [charlesopuba@gmail.com](mailto:charlesopuba@gmail.com)
+
+---
+*Built with ❤️ for the Pride of Africa.*
