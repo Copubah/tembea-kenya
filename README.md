@@ -2,6 +2,8 @@
 
 Experience the Magic of Kenya.
 
+[View Live Demo](https://693ea37c8d7839fbb01a4b70--willowy-rugelach-cf7fd1.netlify.app/)
+
 A modern, interactive travel web application built with React + Vite showcasing the breathtaking beauty of Kenya. From the pristine white sands of Diani Beach to the wild savannas of the Maasai Mara.
 
 ![Tembea Hero Shot](public/assets/hero.png)
