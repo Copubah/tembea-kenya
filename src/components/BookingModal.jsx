@@ -86,7 +86,7 @@ const BookingModal = ({ destination, onClose }) => {
                     }}>
                         <h2 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>{destination.title}</h2>
                         <p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                            📍 {destination.location}
+                            {destination.location}
                         </p>
                     </div>
                 </div>
@@ -123,7 +123,7 @@ const BookingModal = ({ destination, onClose }) => {
                                         fontSize: '0.9rem',
                                         fontWeight: 500
                                     }}>
-                                        ✓ {h}
+                                        {h}
                                     </span>
                                 ))}
                             </div>

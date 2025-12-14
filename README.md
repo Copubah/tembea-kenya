@@ -1,4 +1,4 @@
-# Tembea Kenya 🇰🇪
+# Tembea Kenya
 
 **Experience the Magic of Kenya.**
 
@@ -6,22 +6,22 @@ A modern, interactive travel web application built with **React + Vite** showcas
 
 ![Tembea Hero Shot](public/assets/hero.png)
 
-## 🚀 Features
+## Features
 
-*   **✨ Premium UI/UX**: Glassmorphism design, smooth scroll animations (fade-up, zoom), and a responsive layout.
-*   **🦁 Dynamic Destinations**: Browse top locations with rich details, ratings, and categories (Beach, Safari, Adventure).
-*   **📅 Interactive Booking**: A beautiful multi-step modal for booking inquiries with simulated processing states.
-*   **💌 Contact Integration**: Direct email links and a functional contact form simulation.
-*   **💬 Testimonials**: Read reviews from happy travelers.
-*   **📱 Fully Responsive**: Optimized for mobile, tablet, and desktop.
+*   **Premium UI/UX**: Glassmorphism design, smooth scroll animations (fade-up, zoom), and a responsive layout.
+*   **Dynamic Destinations**: Browse top locations with rich details, ratings, and categories (Beach, Safari, Adventure).
+*   **Interactive Booking**: A beautiful multi-step modal for booking inquiries with simulated processing states.
+*   **Contact Integration**: Direct email links and a functional contact form simulation.
+*   **Testimonials**: Read reviews from happy travelers.
+*   **Fully Responsive**: Optimized for mobile, tablet, and desktop.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Framework**: React (Vite)
 *   **Styling**: Plain CSS 3 (Custom Variables, Flexbox/Grid, Animations)
-*   **Font**: outfit & Playfair Display (Google Fonts)
+*   **Font**: Outfit & Playfair Display (Google Fonts)
 
-## 🏃‍♂️ Running Locally
+## Running Locally
 
 1.  **Clone the repository**
     ```bash
@@ -41,10 +41,10 @@ A modern, interactive travel web application built with **React + Vite** showcas
 
 4.  Open `http://localhost:5173` to view it in the browser.
 
-## 📧 Contact
+## Contact
 
 **Charles Opuba**
 *   Email: [charlesopuba@gmail.com](mailto:charlesopuba@gmail.com)
 
 ---
-*Built with ❤️ for the Pride of Africa.*
+*Built for the Pride of Africa.*

@@ -88,8 +88,8 @@ const Contact = () => {
                             <div style={{
                                 fontSize: '4rem',
                                 marginBottom: '1.5rem',
-                                animation: 'bounce 1s infinite'
-                            }}>💌</div>
+                                color: 'var(--color-primary)'
+                            }}>✓</div>
                             <h3 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Message Sent!</h3>
                             <p style={{ fontSize: '1.2rem', opacity: 0.9 }}>
                                 Asante sana! We've received your message and will get back to you within 24 hours.
