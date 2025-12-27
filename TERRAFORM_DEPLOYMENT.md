@@ -1,4 +1,4 @@
-✅ Tembea - Terraform Infrastructure
+## Tembea - Terraform Infrastructure
 
 ## Summary
 
